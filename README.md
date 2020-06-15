@@ -1,1 +1,1 @@
-# shcool_db
+# school_db
